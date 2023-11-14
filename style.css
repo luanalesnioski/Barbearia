@@ -8,9 +8,13 @@ body {
 
 .principal {
     background: #CCCCCC;
+    padding: 30px;
+}
+.titulo-principal {
+    padding-left: 20px;
 }
 
-h1 {
+.titulo-centralizado{
     color: purple;
     background: rgb(199, 56, 238);
 }
@@ -33,7 +37,17 @@ em strong {
 
 .benefícios{
     background: #FFFFFF;
+    padding: 20px;
 }
-h2 {
-    text-align: center;
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
 }
+
+.imagensbenefiocios {
+    width: 50%;
+}
+
